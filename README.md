@@ -30,6 +30,7 @@ You can also message Patrick Garrity on Linkedin here: https://www.linkedin.com/
 | Fortinet | Forinet DAST | https://docs.fortinet.com/document/fortidast/23.3.0/user-guide/476620/vulnerabilities |
 | FortMesa | Riskchain VM | https://land.fortmesa.com/vulnerability-management-101 |
 | Finit Estate | Finite State Platform | https://finitestate.io/products/finite-state-platform/ |
+| HackerOne | CVE Discovery | https://hackerone.com/hacktivity/cve_discovery |
 | IBM Security | | |
 | Kodem | Kodem Security | https://www.kodemsecurity.com/ |
 | Luna Sec | Luna Sec | https://www.lunasec.io/docs/blog/what-is-epss/ |
